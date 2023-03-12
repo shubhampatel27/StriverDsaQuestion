@@ -1,6 +1,10 @@
 #include<vector>
 #include<iostream>
 using namespace std;
+
+
+
+// optimal approach
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
